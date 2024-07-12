@@ -12,11 +12,11 @@ main:
   - title: "创意生成"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: ""
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "帮助"
     url: /markdown/
