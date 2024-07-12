@@ -6,10 +6,10 @@ main:
   - title: "旅游规划"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "景点导览"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "创意生成"
     url: /portfolio/
         
   - title: "Blog Posts"
