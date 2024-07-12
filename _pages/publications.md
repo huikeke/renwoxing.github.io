@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "旅行规划"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
